@@ -1,0 +1,21 @@
+{
+  "name": "bookmyseat",
+  "version": "1.0.0",
+  "description": "To book the seats in bus",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.12",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

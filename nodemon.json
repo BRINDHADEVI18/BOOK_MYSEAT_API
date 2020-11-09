@@ -1,0 +1,8 @@
+{
+    "env":
+    {
+        "MONGODB_PWD":"Radha@18",
+        "password_HASH":"admin",
+        "USER":"admin"
+    }
+}
